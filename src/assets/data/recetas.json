@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "name": "Torta en taza",
+    "image": "../../assets/images/Torta en taza.jpg",
+    "cPasos": 5,
+    "ingredientes": [
+      "20g de manteca",
+      "1 huevo",
+      "35cc de leche",
+      "40gr de azucar",
+      "35g de harina leudante",
+      "15g de nesquick"
+    ],
+    "pasos":[
+      "Derretir la manteca en el microondas.",
+      "Agregar el azúcar, leche y huevo (en ese orden para evitar que la manteca caliente cocine el huevo) y revolver.",
+      "Una vez incorporado agregar la harina leudante y el Nesquik.",
+      "En caso de quedar muy liquido agregar más harina.",
+      "Pasar la mezcla a la taza (sino estaba ya en esta) y cocinar en microondas por 3 min."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Rapiditas caseras",
+    "image": "../../assets/images/Rapiditas caseras.jpg",
+    "cPasos": 5,
+    "ingredientes": [
+      "500g de harina comun o harina 0000",
+      "5g o media cucharadita de sal",
+      "250cc de agua",
+      "1 cucharadita de polvo para hornear",
+      "4 cucharaditas de aceite de oliva"
+    ],
+    "pasos":[
+      "Mezclar todos los secos.",
+      "Incorporar el aceite de oliva y el agua.",
+      "Amasar hasta conseguir una masa.",
+      "Separar en bolitas y estirar a gusto.",
+      "Cocinar sobre una sartén caliente, 30 segundos por lado o hasta que se comienza a dorar un poco."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Scones",
+    "image": "../../assets/images/Scones.jpg",
+    "cPasos": 6,
+    "ingredientes": [
+      "400g de harina 0000",
+      "50g de azucar",
+      "Una pizca de sal",
+      "200g de manteca",
+      "50cl de leche",
+      "1 huevo y una yema",
+      "1 clara para pintar"
+    ],
+    "pasos":[
+      "Mezclar todos los secos.",
+      "Agregar la manteca fría a los secos y enarenar (hacer una arena deshaciendo la manteca en los secos).",
+      "Incorporar la leche, el huevo, la yema y formar una masa.",
+      "(Si la masa está muy blanda dejar enfriar 20 min).",
+      "Estirar hasta conseguir un grosor de 1cm y cortar en círculos con un vaso.",
+      "(Si los círculos se pegan al vaso poner un poco de harina en los bordes).",
+      "Poner los scones sobre una asadera, pintarlos con la clara y agregar un poco de azúcar por encima.",
+      "(Intentar que el azúcar no caiga sobre la asadera para que no caramelice sobre esta).",
+      "Cocinar a 180 grados hasta dorar las bases."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Crumble de manzana",
+    "image": "../../assets/images/Crumble de manzana.jpg",
+    "cPasos": 6,
+    "ingredientes": [
+      "200g de harina leudante",
+      "200g de azucar",
+      "200g de manteca dura",
+      "3 o 4 manzanas",
+      "200ml leche",
+      "3 huevos",
+      "Un poco mas de azucar"
+    ],
+    "pasos":[
+      "Hacer grumos con la harina, azúcar y manteca.",
+      "Pelar y cortar las manzanas en rodajas finas.",
+      "Ir intercalando en una fuente una capa de grumos y una capa de manzana.",
+      "Mezclar la leche, los huevos y volcarlos en en la fuente.",
+      "Tirar por arriba una fina capa de azúcar.",
+      "Cocinar a 180 grados por 30 min."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tortas fritas",
+    "image": "../../assets/images/Tortas fritas.jpg",
+    "cPasos": 5,
+    "ingredientes": [
+      "500g de harina 0000",
+      "1 huevo",
+      "2 cucharadas de grasa (DESPUES MEDIR BIEN EN GRAMOS)",
+      "1/2 tasa de leche caliente",
+      "1 cucharada de sal"
+    ],
+    "pasos":[
+      "Calentar la leche con la sal.",
+      "Mezclar la harina, grasa y leche caliente intentando deshacer los pedazos de la grasa.",
+      "Agregar el huevo, amazar y dejar descanzar 15 minutos.",
+      "Cortar en bolitas, estirar y freir en grasa.",
+      "A medida que se terminan de freir tirar por encima sal o azucar a eleccion."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Panqueques",
+    "image": "../../assets/images/Panqueques.jpg",
+    "cPasos": 4,
+    "ingredientes": [
+      "200g de harina comun",
+      "5g de sal fina",
+      "30g de azucar",
+      "3 huevos",
+      "500cc de leche",
+      "50g de manteca fundida"
+    ],
+    "pasos":[
+      "Tamizar la harina y mezclar con la sal y el azúcar.",
+      "Formar una pasta sin grumos agregando los huevos y un tercio de la leche.",
+      "Incorporar el resto de la leche TIBIA y la manteca.",
+      "(En caso que la manteca de haga grumos deshacer poniendo la mezcla en baño maría y revolver)",
+      "Midiendo con un cucharón cocinar en un sartén enmantecado.",
+      "(Dar vuelta cuando comienzan a salir burbujas de un lado del panqueque.)"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Torta de yogurt",
+    "image": "../../assets/images/Torta de yogurt.jpg",
+    "cPasos": 3,
+    "ingredientes": [
+      "(Las medidas estan expresadas en pote de yogurt de 400cc)",
+      "1 de yogurt",
+      "1 de aceite",
+      "2 de azucar",
+      "3 de harina leudante",
+      "3 huevos",
+      "Chucaradita de esencia de vainilla"
+    ],
+    "pasos":[
+      "Mezclar todos los liquidos",
+      "integrar el azucar y la harina tamizada",
+      "Cocinar a 180 grados en un boul mantecado y enharinado"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vitel tone",
+    "image": "../../assets/images/Vitel tone.jpg",
+    "cPasos": 3,
+    "ingredientes": [
+      "2 latas grande y 1 chica de atuan en aceite (BUSCAR BIEN LA CANTIDADES)",
+      "200g de mayonesa",
+      "1 cuchara sopera de mostaza",
+      "1 crema grande",
+      "Roast beef"
+    ],
+    "pasos":[
+      "Mezclar el atun, mayonesa, mostaza y crema.",
+      "Hervir el roast beef hasta que un cuchillo pueda pasar por la parte mas gruesa sin tanta resistencia.",
+      "Cortar en rebanadas."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Pan de hamburguesas",
+    "image": "../../assets/images/Pan de hamburguesas.jpg",
+    "cPasos": 9,
+    "ingredientes": [
+      "500g de harina 0000",
+      "4g de levadura seca",
+      "1 cucharada de sal",
+      "4 cucharadas colmadas de azucar",
+      "200ml de agua tibia",
+      "80ml leche tibia",
+      "2 huevos",
+      "80g de manteca temperatura ambiente"
+    ],
+    "pasos":[
+      "Poner en un boul la harina en forma de corona, esparcir la sal y azucar en los costados y poner en el centro la levadura.",
+      "Agregar el agua, leche, huevo y manteca en el centro.",
+      "Mezclar todo y amasar hasta conseguir una masa elastica que no se pegue.",
+      "Colocar la masa en un boul untado con acite de oliva, taparlo y dejarlo reposar hasta que doble su volumen.",
+      "Volver a amasar nuevamente.",
+      "Dividir en bolas, amasadas en redondo.",
+      "Ponerlas en una fuente, taparlas y dejar que doblen su volumen.",
+      "Pintar con el huevo por encima",
+      "Cocinar unos 12-15 minutos a 200 grados hasta que se doren."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Torta 4 (6) ingredientes",
+    "image": "../../assets/images/Torta1234.jpg",
+    "cPasos": 5,
+    "ingredientes": [
+      "1 taza / 245cc de leche.",
+      "2 tazas / 400g de azucar.",
+      "3 tazas / 300g de harina leudante",
+      "4 huevos",
+      "1 taza / 200cc de aceite",
+      "+ saborizante deseado (Esencia de vanilla, ralladura de naranja o limon)"
+    ],
+    "pasos":[
+      "Batir los huevos hasta que su volumen sea el doble.",
+      "De a poco mientras se baten los huevos ir agregando el azucar",
+      "Seguir batiendo y agregar la leche, el saborizante y el aceite.",
+      "DE A MUY POCO ir tamizando la harina e incorporarla",
+      "Preparar un molde enmantecado y enharinado, verter la mezcla y cocinar en horno a 150 grados."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Galletitas pepas",
+    "image": "../../assets/images/Pepas.jpg",
+    "cPasos": 6,
+    "ingredientes": [
+      "300g de azucar",
+      "20g de almidon de maiz",
+      "200g de manteca",
+      "100g de azucar",
+      "1 huevo",
+      "1 yema",
+      "Ralladura de 1 limon",
+      "Dulce de membrillo y/o batata"
+    ],
+    "pasos":[
+      "Tamizar la harina y el almidon de maiz juntos.",
+      "Trabajar la manteca fria con la harina hasta formar un arenado.",
+      "Incorporar el azucar, el huevo y la yema, y perfumar con la ralladura.",
+      "Unir el amasado de a poco y dejar reposar en la heladera durante 30 minutos.",
+      "Formar un cilindro, cortar porciones de 2 cm de espesor, colocar en una placa y presionar el dulce en el centro. ",
+      "Cocinar en horno a 160 grados por 20 minutos."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Hamburguesas vegetarianas",
+    "image": "../../assets/images/HamburguesasVege.jpg",
+    "cPasos": 4,
+    "ingredientes": [
+      "2 latas de lentejas",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 zanahoria",
+      "1 cebolla de verdeo",
+      "1 pizca de sal",
+      "1 pizca de pimienta",
+      "6 cucharadas de pan rallado"
+    ],
+    "pasos":[
+      "Picar la cebollas, los dientes de ajo, rallar la zanahoria y sofreirlos (?).",
+      "Procesar las lentejas, el sofrito, la sal y la pimienta.",
+      "Pasarlo a un bowl y agregar el pan rallado hasta que quede una mezcla compacta y pegajosa.",
+      "Formar en discos y cocinar hasta que se doren."
+    ]
+  }
+]

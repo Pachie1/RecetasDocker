@@ -1,0 +1,174 @@
+.home-container{
+  display: flex;
+  justify-content: space-between;
+ .all-foods{
+  background-color: antiquewhite;
+  min-height: calc(100vh - 100px);
+  font-family: "Roboto", sans-serif;
+  .trending-foods{
+    .top{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      h4{
+        text-transform: uppercase;
+        font-weight: bold;
+        border-left: 5px solid #61d1c2;
+        padding-left: 10px;
+      }
+      .view-all{
+        color: #61d1c2;
+        cursor: pointer;
+      }
+    }
+    .foods-thumbnail{
+      display: flex;
+      flex-wrap: wrap;
+      .food{
+        background-color: rgb(247, 210, 168);
+        padding: 10px;
+        border-radius: 10px;
+        transition: all 0.3s ease-in-out;
+        .cover{
+          img{
+            object-fit:cover;
+            border-radius: 10px;
+            cursor: pointer;
+          }
+        }
+        .detail{
+          .name{
+            text-align: center;
+            font-weight: bold;
+            margin-top: 5px;
+            cursor: pointer;
+            user-select: none;
+          }
+        }
+        .pasos{
+          font-size: small;
+        }
+      }
+      .food:hover{
+        background-color: rgb(241, 158, 110);
+      }
+    }
+  }
+}
+ .popular-foods{
+  width: 29%;
+  min-height: calc(100vh-80px);
+  // padding: 20px 40px;
+  font-family: "Roboto", sans-serif;
+  h4{
+    text-transform: uppercase;
+    font-weight: bold;
+    border-left: 5px solid #61d1c2;
+    padding-left: 10px;
+  }
+  button{
+    margin-right: 15px;
+    margin-bottom: 5px;
+  }
+  .movies{
+    .food{
+      margin-bottom: 20px;
+      margin-top: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      .name{
+        font-weight:bold;
+        cursor: pointer;
+      }
+    }
+    .view-all{
+      color: #61d1c2;
+      text-align: right;
+      margin-top: 30px;
+      cursor: pointer;
+    }
+  }
+ }
+ .pasos{
+  font-weight: bold;
+  }
+}
+
+
+@media screen and (max-width: 850px) {
+  .all-foods{
+      width: 100%;
+      // padding: 20px 40px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      .foods-thumbnail{
+         justify-content:space-around;
+        .food{
+          // margin-left: 10px;
+          // margin-right: 10px;
+          .cover{
+            img{
+              height: 110px;
+              width: 160px;
+            }
+          }
+          .detail{
+            width: 140px;
+            .name{
+              height: 50px;
+            }
+          }
+        }
+      }
+  }
+
+  h4{
+    padding-left:none;
+  }
+}
+@media screen and (min-width: 851px) {
+  .all-foods{
+      width: 71%;
+      padding: 20px 40px;
+      .foods-thumbnail{
+        justify-content: space-between;
+        .food{
+          // margin-left: 10px;
+          // margin-right: 10px;
+          .cover{
+            img{
+              height: 150px;
+              width: 200px;
+            }
+          }
+          .detail{
+            width: 180px;
+            .name{
+              height: 50px;
+            }
+          }
+        }
+      }
+  }
+
+}
+
+@media screen and (max-width: 1024px) {
+  .pasos{
+    padding-right: 10px;
+  }
+  .popular-foods{
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+   }
+}
+@media screen and (min-width: 1025px) {
+  .pasos{
+    padding-right: 45px;
+  }
+  .popular-foods{
+    padding: 20px 40px;
+  }
+}
